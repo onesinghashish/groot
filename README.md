@@ -1,1 +1,1 @@
-npx script for creating boilerplate
+npx script for boilerplate setup
