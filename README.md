@@ -1,4 +1,4 @@
-##npx script for boilerplate setup
+## npx script for boilerplate setup
 
 Prerequisites:
 
