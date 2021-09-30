@@ -2,7 +2,7 @@
 
 Prerequisites:
 
-NodeJS > 14.x
+NodeJS >= 14.x
 
 RUN following in your terminal to get started
 
