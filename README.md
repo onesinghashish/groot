@@ -2,4 +2,5 @@
 
 RUN
 
-npx create-light-preact-app <project-name>
+npx create-light-preact-app '<project-name>'
+  
